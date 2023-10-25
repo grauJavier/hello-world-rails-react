@@ -53,7 +53,6 @@
   </ul>
 </details>
 
-
 ### Key Features <a name="key-features"></a>
 
 - [x] *Combining Ruby on Rails and React*
@@ -67,9 +66,7 @@
 - [x] *Tracking Changes with Git*
 - [x] *Creating an Engaging User Interface*
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -117,11 +114,9 @@ foreman start -f Procfile.dev
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
 ## 🔭 Future Features <a name="future-features"></a>
 
 - [ ] *EVEN MORE Greetings!*
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -132,7 +127,6 @@ Contributions, issues, and feature requests are welcome!
 Feel free to check the [issues page](https://github.com/grauJavier/hello-rails-react/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 ## ⭐️ Show your Support <a name="support"></a>
 
@@ -156,7 +150,6 @@ If you appreciate this project, don't hesitate to send me any improvements or su
   - Yes, you are free to use it.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 ## 📝 License <a name="license"></a>
 
