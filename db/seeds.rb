@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 Message.create(message: 'Bonjour à tous !!') # French
 Message.create(message: 'Buen día a todos!!') # Spanish
 Message.create(message: 'Buongiorno a tutti!!') # Italian
