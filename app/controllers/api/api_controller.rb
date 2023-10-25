@@ -1,5 +1,3 @@
-# frozen_string_literal: true
-
 # app/controllers/api/api_controller.rb
 module Api
   class ApiController < ApplicationController
